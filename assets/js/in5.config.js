@@ -54,7 +54,7 @@ var animationItEvents = 'webkitAnimationIteration oanimationiteration MSAnimatio
 var interactiveSelectors = 'a,button,input,select,textarea,.mejs-overlay-button,map,[onclick],[data-fixed-action],[data-useswipe="1"],[data-tapstart="1"],.panzoom,#viewer-options-wrap';
 var sliderSettings = {}, nav = {}, in5 = {layouts:[
  	{
- 		"name": "A4 V",
+ 		"name": "desktop",
  		"class": "mq-842 mq-default",
  		"width": 842,
  		"height": 595,
